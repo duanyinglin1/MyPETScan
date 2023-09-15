@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPETScan", "MyPETScan\MyPETScan.csproj", "{C7BCBAF0-F5D9-4CF5-8A40-AE2258CD51D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPETScan.Tests", "MyPETScan.Tests\MyPETScan.Tests.csproj", "{20443C66-07C8-4E52-B921-A9D768C839CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BCBAF0-F5D9-4CF5-8A40-AE2258CD51D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BCBAF0-F5D9-4CF5-8A40-AE2258CD51D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BCBAF0-F5D9-4CF5-8A40-AE2258CD51D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BCBAF0-F5D9-4CF5-8A40-AE2258CD51D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20443C66-07C8-4E52-B921-A9D768C839CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20443C66-07C8-4E52-B921-A9D768C839CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20443C66-07C8-4E52-B921-A9D768C839CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20443C66-07C8-4E52-B921-A9D768C839CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66066B07-BAB0-40E6-A37F-E44B3AF69E74}
+	EndGlobalSection
+EndGlobal
